@@ -1,4 +1,4 @@
-ral<?php
+<?php
 /**
  * A class for reading Microsoft Excel (97/2003) Spreadsheets.
  *
